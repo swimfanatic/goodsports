@@ -36,6 +36,8 @@ Short:
 
 Medium:
 
+- Dynamically allow for more rankers. Right now is hardcoded to match Google Doc count of 6
+    This would require changing list submission and most every file under lists/*
 - Create combined tier lists from all entries on lists/*.txt
     Note: This is already done with $teamRanking in lists/grid.php
 - Reorganize the folder structures and file names
