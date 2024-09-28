@@ -28,3 +28,6 @@
 .header-divider {
 	margin-top: 0.25em;
 }
+.header-flex-vert img.header-icon {
+	max-width: 100px;
+}
